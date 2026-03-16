@@ -187,13 +187,13 @@ http://localhost:8501
 
 customer-churn-prediction-ml
 │
-├── app.py
-├── churn_model.pkl
-├── customer_churn_prediction.ipynb
-├── customer_churn_report.pdf
-├── Customer_Churn.csv
-├── requirements.txt
-└── README.md
+├── app.py          
+├── churn_model.pkl          
+├── customer_churn_prediction.ipynb        
+├── customer_churn_report.pdf         
+├── Customer_Churn.csv        
+├── requirements.txt           
+└── README.md       
 
 
 ---
