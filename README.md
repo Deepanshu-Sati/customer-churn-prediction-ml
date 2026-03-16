@@ -1,4 +1,16 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
+
 # Customer Churn Prediction using Machine Learning
+
+## Live Demo
+
+Try the deployed app here:
+
+https://customer-churn-prediction-ml-8mlihqlu7ewc7sres6b2gp.streamlit.app/
+
+---
 
 ## Demo
 
@@ -191,15 +203,20 @@ http://localhost:8501
 
 ## Project Structure
 
-customer-churn-prediction-ml               
-│                 
-├── app.py          
-├── churn_model.pkl          
-├── customer_churn_prediction.ipynb        
-├── customer_churn_report.pdf         
-├── Customer_Churn.csv        
-├── requirements.txt           
-└── README.md       
+## Project Structure
+
+customer-churn-prediction-ml          
+
+│         
+├── app.py                     # Streamlit web app             
+├── churn_model.pkl            # Trained ML model             
+├── customer_churn_prediction.ipynb   # Model training notebook           
+├── customer_churn_report.pdf  # Project report         
+├── Customer_Churn.csv         # Dataset         
+├── demo.gif                   # Demo animation         
+├── requirements.txt           # Python dependencies          
+├── runtime.txt                # Python version for deployment           
+└── README.md                  # Project documentation         
 
 
 ---
@@ -217,6 +234,15 @@ Libraries
 - Scikit-learn
 - Streamlit
 - Joblib
+
+---
+
+## Deployment
+
+This project is deployed using **Streamlit Community Cloud**.
+
+Live app:
+https://customer-churn-prediction-ml-8mlihqlu7ewc7sres6b2gp.streamlit.app/
 
 ---
 
