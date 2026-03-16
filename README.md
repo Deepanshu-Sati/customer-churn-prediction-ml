@@ -205,19 +205,21 @@ http://localhost:8501
 
 ## Project Structure
 
-customer-churn-prediction-ml          
+## Project Structure
 
-│         
-├── app.py                     # Streamlit web app             
-├── churn_model.pkl            # Trained ML model             
-├── customer_churn_prediction.ipynb   # Model training notebook           
-├── customer_churn_report.pdf  # Project report         
-├── Customer_Churn.csv         # Dataset         
-├── demo.gif                   # Demo animation         
-├── requirements.txt           # Python dependencies          
-├── runtime.txt                # Python version for deployment           
-└── README.md                  # Project documentation         
-
+```
+customer-churn-prediction-ml
+│
+├── app.py                         # Streamlit web app
+├── churn_model.pkl                # Trained ML model
+├── customer_churn_prediction.ipynb # Model training notebook
+├── customer_churn_report.pdf      # Project report
+├── Customer_Churn.csv             # Dataset
+├── demo.gif                       # Demo animation
+├── requirements.txt               # Python dependencies
+├── runtime.txt                    # Python version for deployment
+└── README.md                      # Project documentation
+```
 
 ---
 
