@@ -1,5 +1,11 @@
 # Customer Churn Prediction using Machine Learning
 
+## Demo
+
+![Customer Churn Demo](demo.gif)
+
+---
+
 ## Overview
 
 Customer churn is a major challenge for companies operating in competitive industries such as telecommunications, banking, and subscription-based services. Acquiring new customers is significantly more expensive than retaining existing ones, making churn prediction an important business problem.
